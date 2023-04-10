@@ -1,6 +1,0 @@
-com\flipkart\qa\pages\LoginPage.class
-com\flipkart\qa\utils\CommonUtils$1.class
-com\flipkart\qa\utils\ExtentReporter.class
-com\flipkart\qa\utils\CommonUtils.class
-com\flipkart\qa\listeners\TestNGListeners.class
-com\flipkart\qa\pages\HomePage.class
